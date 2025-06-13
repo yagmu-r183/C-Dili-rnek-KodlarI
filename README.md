@@ -1,2 +1,2 @@
 # C-Dili-rnek-KodlarI
-pointer ve pd2 kodları
+pointer, pd2 kodları, odevler
